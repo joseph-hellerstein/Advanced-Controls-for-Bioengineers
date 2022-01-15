@@ -1,0 +1,3 @@
+[submodule "SBMLControl"]
+	path = SBMLControl
+	url = https://github.com/joseph-hellerstein/SBMLControl.git
